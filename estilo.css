@@ -1,4 +1,3 @@
-
 /*Maquetacion Principal */
 
 body{
@@ -156,7 +155,7 @@ font-size:20px;
 color:white;
 text-align:left;
 
-background:url('../photo/perro2.jpg');
+background:url('http://imageshack.us/photo/my-images/812/z28d.jpg/');
 background-size:100% 100%;
 background-repeat:no-repeat;
 display:box;
