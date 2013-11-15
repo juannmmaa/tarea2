@@ -3,7 +3,7 @@
 
 <html>  
     <head>
-    <title> WebLog de Juanma </title>
+    <title> Ingenieria de software </title>
     <meta name="description" content="Weblog de juanma"/>
     <meta name="keywords" content="weblog, blog, juan marcelo cortez gutierrez, juanma" />
     <meta http-equiv="refresh" content="500"/>
