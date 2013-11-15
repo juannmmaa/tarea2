@@ -7,7 +7,7 @@
     <meta name="description" content="Weblog de juanma"/>
     <meta name="keywords" content="weblog, blog, juan marcelo cortez gutierrez, juanma" />
     <meta http-equiv="refresh" content="500"/>
-    <link rel=stylesheet href="css/estilo.css" style="text/css" />
+    <link rel=stylesheet href="estilo.css" style="text/css" />
     </head>    
 
     <body link="black">
