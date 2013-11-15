@@ -95,7 +95,7 @@ echo "$vector[$numero]";
 				
                 <div id="pelao"> </div>
 				<font color="blue" size="4"> 
-                 <time> 07-06-2013 </time>
+               
                       <h3> Felipe Eduardo Alvarez Rojas </h3>
                     <h4> Alumno de Ingenieria Civil en Computacion</h4>
                     <p>   egresado el año 1965 del Liceo Jose Victorino Lastarria a la edad de 39 años. Muchos años pasaron
@@ -114,7 +114,7 @@ echo "$vector[$numero]";
 				<article>
                 <div id="khryz"> </div>
 				<font color="blue" size="4"> 
-                 <time> 07-06-2013 </time>
+                 
                       <h3> Christopher Salvatierra Lagos </h3>
                     <h4> Alumno de Ingenieria Civil en Computacion</h4>
                     <p> Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo!  </p>
@@ -127,7 +127,7 @@ echo "$vector[$numero]";
                 <article>
                 <div id="juanma"> </div>
 				<font color="blue" size="4"> 
-                 <time> 07-06-2013 </time>
+                
                       <h3> Juan Marcelo Cortez Gutierrez </h3>
                     <h4> Alumno de Ingenieria Civil en Computacion</h4>
                     <p> Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo!  </p>
