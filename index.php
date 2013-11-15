@@ -115,12 +115,16 @@ echo "$vector[$numero]";
                 <div id="khryz"> </div>
 				<font color="blue" size="4"> 
                  
-                      <h3> Christopher Salvatierra Lagos </h3>
+                        <h3> Christopher Salvatierra Lagos </h3>
                     <h4> Alumno de Ingenieria Civil en Computacion</h4>
-                    <p> Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo!  </p>
-                    <audio controls="controls">
-                    <source src="audio/calamaro.ogg" type="audio/ogg"/>
-
+                    <p> 
+                        Tengo 22 años, soy alumno regular de Ingenieria Civil en Computacion de ingreso en el 2010. En el 2009 egrese de enseñanza media del Liceo de Aplicacion.
+                        Actualmente curso el octavo semestre de la carrera que estudio.
+                        Dentro de mis hobbies al que mas le dedico tiempo es al Running
+                    </p>
+                    <p> <a href = "https://github.com/Chris2141"> Repositorio Github </a> </p>
+                    <p> <a href="https://www.facebook.com/chris2141"> Facebook </a></p>
+                    <p> Correo: c.salvatierra.icci@gmail.com </p>
                    
                 </article>
                       
